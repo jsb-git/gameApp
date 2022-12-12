@@ -4,10 +4,11 @@ This is a Game Tracker App use to track games that you are playing or not yet pl
 
 Be able to do the following:
   - record number of hours played
-  - set date of the game bought
+  - record of when the is game bought
   - rate games
-  - record status of the game
+  - set or update the status of the game
   - create, edit and delete games.
+  - sort and search for games
 
 Probable improvements in the future:
   - schedule game time
